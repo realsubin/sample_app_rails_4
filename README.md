@@ -1,3 +1,5 @@
+[ ![Codeship Status for realsubin/sample_app_rails_4](https://codeship.com/projects/9ba6fe30-5b05-0133-c27e-42992ec35372/status?branch=master)](https://codeship.com/projects/110588)
+
 # Ruby on Rails Tutorial: sample application
 
 This is the sample application for
